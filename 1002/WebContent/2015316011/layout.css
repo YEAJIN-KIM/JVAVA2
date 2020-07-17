@@ -1,0 +1,90 @@
+@charset "utf-8";
+body {
+	font-family: "koPub돋움체 Bold";
+	color: #000;
+	background-color: #FFF7FD;
+	font-size: 24px;
+}
+
+#wrap {
+	width: 1765px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#pageheader {
+	height: 279px;
+	width: 1765px;
+}
+#toplogo {
+	margin: 0px;
+	float: left;
+	height: 279px;
+	width: 300px;
+}
+#topmain {
+	float: left;
+	height: 279px;
+	width: 900px;
+	font-family: "koPub돋움체 Bold";
+	font-size: 100px;
+	color: #000000;
+}
+
+#topnav {
+	float: right;
+	height: 79px;
+	width: 500px;
+}
+#login {
+	float: left;
+	height: 79px;
+	width: 250px;
+}
+#membership {
+	float: left;
+	height: 79px;
+	width: 250px;
+}
+#pagecenter {
+	height: 600px;
+	width: 1765px;
+}
+#bannerset {
+	float: left;
+	height: 600px;
+	width: 300px;
+	background-image: url(images/noun_541195_cc_01.png);
+	background-repeat: no-repeat;
+}
+#banner1 {
+	height: 100px;
+	width: 200px;
+	margin-top: 150px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+#banner2 {
+	height: 100px;
+	width: 200px;
+	margin-top: 40px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+#banner3 {
+	height: 100px;
+	width: 200px;
+	margin-top: 50px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+#main {
+	height: 500px;
+	width: 1465px;
+	float: left;
+}
+input {
+	background-color: #FFF7FD;
+	border: 1px solid #FFF7FD;
+}
